@@ -3,7 +3,7 @@
 """
 Created on Tue Mar  3 23:33:59 2020
 
-@author: filippo
+@author: Filippo Falezza [filippo.falezza at outlook dot it]
 GPLv3
 """
 import hid
